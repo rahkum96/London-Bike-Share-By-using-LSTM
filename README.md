@@ -20,3 +20,7 @@ Our goal is to predict the number of future bike shares given the historical dat
 
 
 Please keep in mind that our model can only predict one point in the future. Having said that, it is performing wonderfully. Our model does a fair job of predicting (understanding) the overall pattern, even though it can't really capture the extreme values.
+
+
+### Conclusion:
+We simply preprocessed a real dataset and used it to forecast bike-sharing demand. We trained the model using subsequences from the original dataset using a Bidirectional LSTM model. We even obtained some great results
