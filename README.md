@@ -19,3 +19,4 @@ Our goal is to predict the number of future bike shares given the historical dat
 ![image](https://user-images.githubusercontent.com/86415241/139055836-071bd9b7-98ec-4215-b92e-68d2888e7c8b.png)
 
 
+Please keep in mind that our model can only predict one point in the future. Having said that, it is performing wonderfully. Our model does a fair job of predicting (understanding) the overall pattern, even though it can't really capture the extreme values.
