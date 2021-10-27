@@ -3,3 +3,19 @@ The dataset we'll be analyzing is the "Bike Share" data. It shows the amount of 
 
 ### Aim
 Our goal is to predict the number of future bike shares given the historical data of London bike shares
+
+### Approach:
+- Data
+- Data preprocessing
+- Exploratory Data Analysis
+- Splitting the data into Train, Test
+- Building Model
+- Predicting Demand
+- Evaluation
+
+### Graph
+![image](https://user-images.githubusercontent.com/86415241/139055797-f3308d99-0ab8-42bc-8e41-225b2e55b819.png)
+
+![image](https://user-images.githubusercontent.com/86415241/139055836-071bd9b7-98ec-4215-b92e-68d2888e7c8b.png)
+
+
