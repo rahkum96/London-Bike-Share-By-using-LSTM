@@ -12,7 +12,21 @@ Our goal is to predict the number of future bike shares given the historical dat
 - Building Model
 - Predicting Demand
 - Evaluation
+### Dependencies
+ 
+*  Keras
+*  Tensorflow V2.6.0
+*  Pandas
+*  Scikit-Learn
+*  Numpy
+*  python 3.9
 
+
+### Usage
+
+Just run `jupyter notebook` in terminal and it will run in your browser.
+
+Install Jupyter [here](http://jupyter.readthedocs.io/en/latest/install.html) i've you haven't.
 ### Graph
 ![image](https://user-images.githubusercontent.com/86415241/139055797-f3308d99-0ab8-42bc-8e41-225b2e55b819.png)
 
