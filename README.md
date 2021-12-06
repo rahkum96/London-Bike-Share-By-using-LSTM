@@ -14,12 +14,13 @@ Our goal is to predict the number of future bike shares given the historical dat
 - Evaluation
 ## Dependencies
 ``` 
-*  Keras
-*  Tensorflow V2.6.0
-*  Pandas
-*  Scikit-Learn
-*  Numpy
-*  python 3.9
+ Keras
+ Tensorflow V2.6.0
+ Pandas
+ Scikit-Learn
+ Numpy
+ python 3.9
+ 
 ```
 
 ## Usage
